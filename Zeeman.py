@@ -1,3 +1,5 @@
+# Written in Python version 3.7.6
+
 class Zeeman:
     """Studies Zeeman splitting on a given spectral line in the presence of a weak static magnetic field.
 
